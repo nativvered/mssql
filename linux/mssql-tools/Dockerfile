@@ -1,5 +1,5 @@
 # SQL Server Command Line Tools
-FROM ubuntu:16.04
+FROM ubuntu:xenial-20210416
 
 LABEL maintainer="SQL Server Engineering Team"
 

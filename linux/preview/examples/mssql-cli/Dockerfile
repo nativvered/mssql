@@ -1,4 +1,4 @@
-FROM ubuntu:16.04
+FROM ubuntu:xenial-20210416
 
 # apt-get update and install required utilities
 RUN apt-get update && apt-get install -y \

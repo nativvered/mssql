@@ -1,6 +1,6 @@
 # mssql-php-msphpsql
 # PHP runtime with sqlservr and pdo_sqlsrv to connect to SQL Server
-FROM ubuntu:16.04
+FROM ubuntu:xenial-20210416
 MAINTAINER SQL Server Connectivity Team
 
 # apt-get and system utilities

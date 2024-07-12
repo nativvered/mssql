@@ -2,7 +2,7 @@
 # Maintainers: Microsoft Corporation 
 
 # Base OS layer
-FROM ubuntu:16.04
+FROM ubuntu:xenial-20210416
 
 # use root user
 USER root

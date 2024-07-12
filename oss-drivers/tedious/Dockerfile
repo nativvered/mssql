@@ -1,6 +1,6 @@
 # mssql-nodejs-tedious
 # Node.js runtime with tedious to connect to SQL Server
-FROM ubuntu:16.04
+FROM ubuntu:xenial-20210416
 
 # apt-get and system utilities
 RUN apt-get update && apt-get install -y \
